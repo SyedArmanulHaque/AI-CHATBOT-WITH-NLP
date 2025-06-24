@@ -18,3 +18,7 @@ If the user asks “tell me a joke”, the bot responds with a developer-themed 
 Questions about NLTK or the bot's creator are also handled with predefined answers.
 The reflections dictionary provided by NLTK handles basic pronoun transformations (like changing “I am” to “you are”), adding a touch of naturalism to the responses.
 The program starts with a friendly greeting asking the user’s name. Based on the response, it customizes its reply and opens up the conversation. The user can interact freely and exit anytime by typing “bye”.
+
+**Output**
+
+![Image](https://github.com/user-attachments/assets/533e3785-9426-421d-9b7e-bf09026710f4)
